@@ -1,7 +1,7 @@
-# Cebir 
+# Algebra
 
-Bugün, çok sayıda plotting yapacağız.
+Today, we will be doing a lot of plotting.
 
-Bu projede, verileri ve fonksiyonları hızlı bir şekilde nasıl **plotting**  yapıldığını öğreneceğiz.
+In this project, we will learn how to quickly plot data and functions.
 
-Başlamak için bu klasördeki defteri `jupyter notebook` ile açın.
+To begin, open the notebook in this folder with `jupyter notebook`.
